@@ -72,3 +72,9 @@ body {
 .hide {
   display: none;
 }
+#winner{
+    display: flex;
+    height: 20px;
+    width: 30px;
+    border: 2px solid red;
+}
